@@ -7,10 +7,10 @@ Especialista em Engenharia de Software focado no desenvolvimento de sistemas dis
 ---
 
 ### [0] System Capabilities
-- **Languages:** Python, Kotlin, Java, C
+- **Languages:** Python, Kotlin, C
 - **Data Persistence:** MySQL, Firebase
 - **Environment:** Arch Linux, Debian, Ubuntu
-- **Toolkit:** Git, VS Code, Android Studio, CLI-driven dev
+- **Toolkit:** VS Code, Android Studio, CLI
 
 ---
 
